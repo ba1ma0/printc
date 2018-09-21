@@ -13,11 +13,9 @@
 安装使用:
 
 	1) git clone git@github.com:spacesec/printc.git.
-	2) 将克隆下来的printc文件夹放在..\..\Python3\Lib\site-packages中.
-		//也就是python3安装目录下的\Lib\site-packages
+	2) 将克隆下来的printc文件夹放在..\..\Python3\Lib\site-packages中.//也就是python3安装目录下的\Lib\site-packages
 	3) 在您的Python程序头中 "import printc.printc as printc".
-	4)如果您想输出一个红色的"中国",您既可以使用printc.printf("中国","red")
-	  您也可以使用printc.printRed("中国").
+	4)如果您想输出一个红色的"中国",您既可以使用printc.printf("中国","red")您也可以使用printc.printRed("中国").
 	5)您可以根据printc.的提示来选择您想选择的颜色.
 	
 联系我:
